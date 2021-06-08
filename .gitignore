@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Error Correcting Encoder-Decoder/task/build/
+/Error Correcting Encoder-Decoder/task/out/
+/Error Correcting Encoder-Decoder/task/out/production/classes/
+/Problems (1)/Difference of times/out/
+/Problems (1)/Difference of times/out/production/classes/
+/Problems (6)/Printing strings in the same order/out/
+/Problems (6)/Printing strings in the same order/out/production/classes/
+/Topics/The List interface/Companies/out/
+/Topics/The List interface/Companies/out/production/classes/
